@@ -33,7 +33,7 @@ Concerning dichotomy and exclusion..
 3. Confirm the message saying that the file is unzipped properly and installed.
 4. Touch the circular icon with 'i' in the center at top/left of the screen.
 5. In the list, touch the file named "BnW-SoundGun.mmp".
-6. By touching/holding on the round circle at center, you can "shoot" sounds...
+6. By touching/holding on that circles at center, you can "shoot" sounds...
 
 ---
 
@@ -43,7 +43,7 @@ Concerning dichotomy and exclusion..
 
 <img src="03.png" width=200px />
 
-* Touch and open the downloaded file, bnwgun.zip. Care shoule be taken to specifically select MobMuPlat as an opening app.
+* Touch and open the downloaded file, bnwgun.zip. Care should be taken to specifically select MobMuPlat as an opening app.
 
 <img src="04.png" width=200px />
 <img src="06.png" width=200px />
@@ -53,7 +53,7 @@ Concerning dichotomy and exclusion..
 
 <img src="08.png" width=200px />
 
-* Touch the circulat icon with 'i' in the center at top/left of the screen.
+* Touch the circular icon with 'i' in the center at top/left of the screen.
 
 <img src="09.png" width=200px />
 
@@ -61,7 +61,7 @@ Concerning dichotomy and exclusion..
 
 <img src="10.png" width=200px />
 
-* By touching/holding on the round circle at center, you can "shoot" sounds...
+* By touching/holding on that circles at center, you can "shoot" sounds...
 
 <img src="11.png" width=200px />
 
@@ -69,9 +69,9 @@ Concerning dichotomy and exclusion..
 
 ### More to say...
 
-- Checkpoint 1. If your phone too slow, try BnW-SoundGun-simple.mmp which has less load on animation.
+- If your phone seems too slow, try BnW-SoundGun-simple.mmp which has less load on animation.
 
-- Hacking course? : If you can record your own sounds up to 10. Touch the circulat icon with 'i' in the center at top/left of the screen. Select bnwgrab10.mmp at the very end of the list. **No documentation for now** One hint critical is that the recording works only after you touch "menu/new sound." Bit confusing but to stop troubles from unexpected touch.
+- Hacking course(?) : You can record your own sounds up to 10 replacing ones that is already in. Touch the circular icon with 'i' in the center at top/left of the screen. Select 'bnwgrab10.mmp' at the very end of the list. **No documentation** is ready for now afterwards. So kinda little hacking required. One critical hint is that the recording works only after you touch 'menu/new sound.' This could be a bit confusing but to stop troubles from unexpected touches.
 
 - Contacts and info. : <http://dianaband.info>
 
