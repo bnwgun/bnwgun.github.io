@@ -1,6 +1,10 @@
 ## Black and White Sound GUN 사용 매뉴얼
 
+---
+
 ### 설치 단계 (1) - MobMuplat 설치
+
+---
 
 <a href="https://geo.itunes.apple.com/us/app/mobmuplat/id597679399?mt=8" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
 
@@ -10,6 +14,8 @@
 
 **단계 2 진행전 설치 완료 필수!**
 
+---
+
 ### 설치 단계 (2) - 따라하기, 말로만~
 
 1. 클릭하여 다운로드 <http://bnwgun.github.io/bnwgun.zip>
@@ -18,6 +24,8 @@
 4. 좌측 상단의 i 모양 아이콘 클릭
 5. 나타난 목록 중, BnW-SoundGun.mmp란 파일을 클릭
 6. 가운데 동그라미 동글동글을 누르면, 사운드가 발사됨.
+
+---
 
 ### 설치 단계 (2) - 따라하기, 그림예시랑 같이, @.@!
 
@@ -46,6 +54,8 @@
 * 가운데 동그라미 동글동글을 누르면, 사운드가 발사됨.
 
 <img src="11.png" width=200px />
+
+---
 
 ### 참고 내용
 
