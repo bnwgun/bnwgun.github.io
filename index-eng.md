@@ -29,7 +29,7 @@ Concerning dichotomy and exclusion..
 ### Installation Step 2 - Step-by-step Guide only by TEXT~
 
 1. Touch and download. <http://bnwgun.github.io/bnwgun.zip>
-2. Touch and open the downloaded file, bnwgun.zip. Care shoule be taken to specifically select MobMuPlat as an opening app.
+2. Touch and open the downloaded file, bnwgun.zip. Care should be taken to specifically select MobMuPlat as an opening app.
 3. Confirm the message saying that the file is unzipped properly and installed.
 4. Touch the circulat icon with 'i' in the center at top/left of the screen.
 5. In the list, touch the file named "BnW-SoundGun.mmp".
