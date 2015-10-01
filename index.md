@@ -1,8 +1,6 @@
 ## Black and White Sound GUN 사용 매뉴얼
 
----
-
-** [English](index-eng.md)
+[>> English-version](index-eng.md)
 
 ---
 

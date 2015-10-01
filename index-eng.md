@@ -31,7 +31,7 @@ Concerning dichotomy and exclusion..
 1. Touch and download. <http://bnwgun.github.io/bnwgun.zip>
 2. Touch and open the downloaded file, bnwgun.zip. Care should be taken to specifically select MobMuPlat as an opening app.
 3. Confirm the message saying that the file is unzipped properly and installed.
-4. Touch the circulat icon with 'i' in the center at top/left of the screen.
+4. Touch the circular icon with 'i' in the center at top/left of the screen.
 5. In the list, touch the file named "BnW-SoundGun.mmp".
 6. By touching/holding on the round circle at center, you can "shoot" sounds...
 
